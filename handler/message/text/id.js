@@ -1,11 +1,9 @@
 exports.textTnC = () => {
     return `
-Source code / bot ini merupakan program open-source (gratis) yang ditulis menggunakan Javascript, kamu dapat menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan atau menjual salinan dengan tanpa menghapus author utama dari source code / bot ini.
-
-Dengan menggunakan source code / bot ini maka anda setuju dengan Syarat dan Kondisi sebagai berikut:
-- Source code / bot tidak menyimpan data anda di server kami.
-- Source code / bot tidak bertanggung jawab atas sticker yang anda buat dari bot ini serta video, gambar maupun data lainnya yang anda dapatkan dari Source code / bot ini.
-- Source code / bot tidak boleh digunakan untuk layanan yang bertujuan/berkontribusi dalam: 
+Dengan menggunakan bot ini maka anda setuju dengan Syarat dan Kondisi sebagai berikut:
+- Author menyarankan untuk tidak memasukkan yang bersifat rahasia, karena Author masih menggunakan nomor wa ini.
+- Bot tidak bertanggung jawab atas sticker yang anda buat dari bot ini serta video, gambar maupun data lainnya yang anda dapatkan dari Source code / bot ini.
+- Bot tidak boleh digunakan untuk layanan yang bertujuan/berkontribusi dalam: 
     • seks / perdagangan manusia
     • perjudian
     • perilaku adiktif yang merugikan 
@@ -14,10 +12,7 @@ Dengan menggunakan source code / bot ini maka anda setuju dengan Syarat dan Kond
     • pembakaran hutan / penggundulan hutan
     • ujaran kebencian atau diskriminasi berdasarkan usia, jenis kelamin, identitas gender, ras, seksualitas, agama, kebangsaan
 
-Source Code BOT : https://github.com/YogaSakti/imageToSticker
-NodeJS WhatsApp library: https://github.com/open-wa/wa-automate-nodejs
-
-Best regards, Yoga Sakti.`
+Amnusa Tech
 }
 
 exports.textMenu = (pushname) => {
@@ -45,7 +40,7 @@ Penggunaan: kirim gambar dengan caption _*#meme aku atas | kamu bawah*_, atau ju
 Downloader:
 1. *#tiktok* _<tiktok url>_
 Untuk mengunduh video dari video tiktok.
-Penggunaan: kirim pesan dengan format *#tiktok https://www.tiktok.com/@itsandani/video/6869248690381425922* 
+Penggunaan: kirim pesan dengan format *#tiktok https://www.tiktok.com/......* 
 
 2. *#fb* _<post/video url>_
 Untuk mengunduh video dari Facebook.
@@ -53,11 +48,11 @@ Penggunaan: kirim pesan dengan format *#fb https://www.facebook.com/.....*
 
 3. *#ig* _<instagram post url>_
 Untuk mengunduh photo dan video dari instagram.
-Penggunaan: kirim pesan dengan format *#ig https://www.instagram.com/p/BPOd1vhDMIp/*
+Penggunaan: kirim pesan dengan format *#ig https://www.instagram.com/p/CGHwDtEA-kr/*
 
 4. *#twt* _<twitter post url>_
 Untuk mengunduh photo dan video dari Twitter.
-Penggunaan: kirim pesan dengan format *#twt https://twitter.com/ntsana_/status/1306108656887324672*
+Penggunaan: kirim pesan dengan format *#twt https://twitter.com/Jelly34696866/status/1316794241222279168*
 
 Lain-lain:
 1. *#translate* _<kode bahasa>_
@@ -108,9 +103,7 @@ Untuk menghapus pesan bot (balas pesan bot dengan #del)`
 
 exports.textDonasi = () => {
     return `
-Hai, terimakasih telah menggunakan bot ini, untuk mendukung bot ini kamu dapat membantu dengan berdonasi melalui link berikut:
-1. Saweria: https://saweria.co/yogasakti
-2. Trakteer: https://trakteer.id/red-emperor 
+Hai, terimakasih telah menggunakan bot ini, untuk mendukung bot ini kamu dapat membantu dengan berdoa saja
 
 Donasi akan digunakan untuk pengembangan dan pengoperasian bot ini.
 
