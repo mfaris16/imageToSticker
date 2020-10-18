@@ -1,22 +1,19 @@
 exports.textTnC = () => {
     return `
-Source code / bot is an open-source program (free) written using Javascript, you can use, copy, modify, combine, publish, distribute, sub-license, and or sell copies without removing the main author of the source code / bot.
-By using this source code / bot, you agree to the following Terms and Conditions:
-- Source code / bot does not store your data on our servers.
-- The source code / bot is not responsible for the stickers you make from this bot and the videos, images and other data that you get from the source code / bot.
-- Source code / bot may not be used for services that aim / contribute to:
+By using this bot, you agree to the following Terms and Conditions:
+- Author advises not to enter confidential ones, because Author still uses this wa number.
+- The bot is not responsible for the stickers that you make from this bot as well as the videos, images and other data that you get from the source code / bot.
+- Bots may not be used for services that aim / contribute to:
     • sex / human trafficking
     • gambling
     • harmful addictive behavior
     • crime
     • violence (unless necessary to protect public safety)
-    • burning forest/ deforestation
+    • forest burning / deforestation
     • hate speech or discrimination based on age, sex, gender identity, race, sexuality, religion, nationality
 
-Source Code BOT: https://github.com/YogaSakti/imageToSticker
-NodeJS WhatsApp library: https://github.com/open-wa/wa-automate-nodejs
+Amnusa Tech
 
-Best regards, Yoga Sakti.`
 }
 
 exports.textMenu = (pushname) => {
